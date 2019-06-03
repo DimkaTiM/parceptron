@@ -1,0 +1,4 @@
+# parceptron
+neuron
+
+Простой нейрон
